@@ -1,3 +1,3 @@
 # reddit_bot
 
-Simple reddit bot implementation in Pythonč
+Simple reddit bot implementation in Python.
